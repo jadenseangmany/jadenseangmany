@@ -1,4 +1,32 @@
-## Hi there 👋
+## Hey, I'm Jaden. 🔭
+
+### I'm currently working on
+metagenomic-wbe - Metagenomic pipeline for genome classification and high resolution variant analysis
+
+Kruger - Resume tailor to match ATS to skills
+
+(open source project)
+
+### I'm currently learning about
+
+VHDL
+
+Machine learning
+
+Machine learning applications to hardware
+
+### Skills:
+
+Languages:
+
+Frameworks & Tools: Docker, Conda, React, Node.js, Express.js, AWS EC3
+
+Libraries: PyTorch, Numpy, OpenCV
+
+### Connect with me!
+
+[![Tag](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/jadenseangmany)
+
 
 <!--
 **jadenseangmany/jadenseangmany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
