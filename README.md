@@ -1,9 +1,9 @@
 ## Hey, I'm Jaden. 🔭
 
 ### I'm currently working on
-META-WEPP (currently private) - Metagenomic pipeline for genome classification and high resolution variant analysis
+**⚡ META-WEPP (currently private)** - Metagenomic pipeline for genome classification and high resolution variant analysis
 
-**[Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match your resume with skills on a job description for ATS 
+**⚡ [Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match your resume with skills on a job description for ATS 
 
 ### I'm currently learning about
 
@@ -15,13 +15,13 @@ Machine learning applications to hardware
 
 ### Skills:
 
-**Languages:** Python, C#, C/C++, Typescript, React
+**⚡ Languages:** Python, C#, C/C++, Typescript, React
 
-**Frameworks & Tools:** Docker, Conda, Linux/Unix, React, Node.js, Express.js, AWS EC3
+**⚡ Frameworks & Tools:** Docker, Conda, Linux/Unix, React, Node.js, Express.js, AWS EC3
 
-**Hardware:** Vivado, Modelsim, VHDL, SystemVerilog
+**⚡ Hardware:** Vivado, Modelsim, VHDL, SystemVerilog
 
-**AI/ML:** PyTorch, Numpy, OpenCV, Pandas
+**⚡ AI/ML:** PyTorch, Numpy, OpenCV, Pandas
 
 ### Connect with me!
 
