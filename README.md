@@ -1,11 +1,11 @@
-## Hey, I'm Jaden.  🔭
+# Hey, I'm Jaden.  🔭
 
-### 🔨 I'm currently working on
+## 🔨 I'm currently working on
 **⚡ META-WEPP (currently private)** - Metagenomic pipeline for genome classification and high resolution variant analysis
 
 **⚡ [Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match your resume with skills on a job description for ATS 
 
-### 🌱 I'm currently learning about
+## 🌱 I'm currently learning about
 
 VHDL
 
@@ -13,7 +13,7 @@ Making C# GUIs to test bit profiles on FPGAs
 
 Machine learning applications to hardware
 
-### 💡 Skills:
+## 💡 Skills:
 
 **⚡ Languages:** Python, C#, C/C++, Typescript, React
 
@@ -23,7 +23,7 @@ Machine learning applications to hardware
 
 **⚡ AI/ML:** PyTorch, Numpy, OpenCV, Pandas
 
-### Connect with me!
+## Connect with me!
 
 [![Tag](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jadenseangmany)
 
