@@ -3,7 +3,7 @@
 ### I'm currently working on
 META-WEPP (currently private) - Metagenomic pipeline for genome classification and high resolution variant analysis
 
-[Kruger](https://github.com/jadenseangmany/Kruger) - Resume tailor to match ATS to skills
+**[Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match ATS to skills
 
 (open source project)
 
