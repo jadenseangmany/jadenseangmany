@@ -3,25 +3,25 @@
 ### I'm currently working on
 META-WEPP (currently private) - Metagenomic pipeline for genome classification and high resolution variant analysis
 
-**[Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match ATS to skills
-
-(open source project)
+**[Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match your resume with skills on a job description for ATS 
 
 ### I'm currently learning about
 
 VHDL
 
-Machine learning
+Making C# GUIs to test bit profiles on FPGAs
 
 Machine learning applications to hardware
 
 ### Skills:
 
-Languages:
+**Languages:** Python, C#, C/C++, Typescript, React
 
-Frameworks & Tools: Docker, Conda, React, Node.js, Express.js, AWS EC3
+**Frameworks & Tools:** Docker, Conda, Linux/Unix, React, Node.js, Express.js, AWS EC3
 
-Libraries: PyTorch, Numpy, OpenCV
+**Hardware:** Vivado, Modelsim, VHDL, SystemVerilog
+
+**AI/ML:** PyTorch, Numpy, OpenCV, Pandas
 
 ### Connect with me!
 
