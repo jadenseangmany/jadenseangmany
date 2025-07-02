@@ -23,7 +23,7 @@ Machine learning applications to hardware
 
 **⚡ AI/ML:** PyTorch, Numpy, OpenCV, Pandas
 
-## Connect with me!
+## 🧩 Connect with me!
 
 [![Tag](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jadenseangmany)
 
