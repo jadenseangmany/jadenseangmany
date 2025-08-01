@@ -1,7 +1,7 @@
 # Hey, I'm Jaden.  🔭
 
 ## 🔨 Projects
-**⚡ META-WEPP (currently private)** - Metagenomic pipeline for genome classification and high resolution variant analysis
+**⚡ [metaWEPP](https://github.com/TurakhiaLab/metaWEPP) ** - Metagenomic pipeline for genome classification and high resolution variant analysis
 
 **⚡ [Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match your resume with skills on a job description for ATS
 
