@@ -17,7 +17,7 @@
 
 🌴 **Energy Efficient GPUs**
 
-⌨️ **Software Engineering (infra, architecture, frontend)**
+⌨️ **Software Design (infra, architecture, frontend)**
 
 ## 💡 Skills
 
