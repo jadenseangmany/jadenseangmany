@@ -10,8 +10,11 @@
 ## 🌱 Interests
 
 **Embedded System Design**
+
 **IC Design**
+
 **VLSI and ML applications**
+
 **Energy efficient GPUs**
 
 ## 💡 Skills
