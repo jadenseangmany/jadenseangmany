@@ -1,19 +1,18 @@
 # Hey, I'm Jaden.  🔭
 
 ## 🔨 Projects
-**⚡ [metaWEPP](https://github.com/TurakhiaLab/metaWEPP) ** - Metagenomic pipeline for genome classification and high resolution variant analysis
+**⚡ [metaWEPP](https://github.com/TurakhiaLab/metaWEPP)** - Metagenomic pipeline for genome classification and high resolution variant analysis
 
 **⚡ [Kruger](https://github.com/jadenseangmany/Kruger)** - Resume tailor to match your resume with skills on a job description for ATS
 
 **⚡ [Transformer Time](https://github.com/jadenseangmany/ece176-final-project)** - Time series transformer for short term stock market analysis
 
-## 🌱 Learning
+## 🌱 Interests
 
-VHDL
-
-Making C# GUIs to test bit profiles on FPGAs
-
-Machine learning applications to hardware
+**Embedded System Design**
+**IC Design**
+**VLSI and ML applications**
+**Energy efficient GPUs**
 
 ## 💡 Skills
 
