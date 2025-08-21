@@ -17,6 +17,8 @@
 
 🌴 **Energy Efficient GPUs**
 
+⌨️ **Software Engineering (infra, architecture, frontend)**
+
 ## 💡 Skills
 
 **⚡ Languages:** Python, C#, C/C++, Typescript, React
