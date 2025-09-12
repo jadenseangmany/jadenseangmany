@@ -21,9 +21,9 @@
 
 ## 💡 Skills
 
-**⚡ Languages:** Python, C#, C/C++, Typescript, React
+**⚡ Languages:** Python, C#, Java, C/C++, Typescript, React, HTML/CSS
 
-**⚡ Frameworks & Tools:** Docker, Conda, Linux/Unix, React, Node.js, Express.js, AWS EC3
+**⚡ Frameworks & Tools:** Docker, Conda, Linux/Unix, React, Node.js, Express.js, AWS EC3, Next.js
 
 **⚡ Hardware:** Vivado, Modelsim, VHDL, SystemVerilog
 
